@@ -1,0 +1,24 @@
+{
+  "name": "visual-regression-test-app-simple",
+  "version": "1.0.0",
+  "description": "Simple example on visual regression testing a Fiori Elements app",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx backstop test"
+  },
+  "keywords": [
+    "testing",
+    "visual",
+    "testing",
+    "backstopjs",
+    "fiori",
+    "ui5",
+    "fiori",
+    "elements"
+  ],
+  "author": "Tobias Hofmann",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "backstopjs": "^6.3.24"
+  }
+}
